@@ -36,7 +36,7 @@ This is the `accredify-assessment` Laravel project, a system designed to manage 
 3. Run Migration:
 
     ```bash
-
+    php artisan migrate
     ```
 
 4. Run Seeder:
